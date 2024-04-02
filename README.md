@@ -13,10 +13,10 @@ ___
 
 ## Мои достижения
 
-![sert-TGU](https://disk.yandex.ru/i/W9CTOBNj6GAnbw)
+![sert-TGU](https://github.com/Evgeny-Starikov/GIT_Portfolio/blob/main/9da28084-2ded-4354-92c2-ae3f72dd2f41%20(1).jpg)
 ___
 
-![sert-first-mod-netology](https://netology.ru/sharing/22b902fbab32e4854b4ed0c74b466c23?utm_source=social&utm_campaign=achievements)
+![sert-first-mod-netology](https://github.com/Evgeny-Starikov/GIT_Portfolio/blob/main/22b902fbab32e4854b4ed0c74b466c23.jpg)
 
 
 ## Мои  контакты:
