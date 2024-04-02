@@ -1,5 +1,5 @@
 # Приветствую Вас на моей страничке!
-![my_photo](https://drive.google.com/file/d/1cwVqvZfXg2_bqbiUX1XqSGOjvnwLbFF0/view?usp=sharing)
+![my_photo](https://github.com/Evgeny-Starikov/GIT_Portfolio/blob/main/12.jpg)
 
 ***Это мой первый опыт создания портфолио, равно как и первые шаги в IT  (написание простеньких программок на бейсике в школе на ПЭВМ Искра-1030М можно в расчет не брать, - с тех пор много воды утекло).***
 
