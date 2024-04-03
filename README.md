@@ -1,5 +1,5 @@
 # Приветствую Вас на моей страничке!
-![my_photo](https://github.com/Evgeny-Starikov/GIT_Portfolio/blob/main/12.jpg)
+![my_photo](12.jpg)
 
 ## Меня зовут Стариков Евгений Анатольевич
 
@@ -15,10 +15,10 @@ ___
 
 ## Мои достижения
 
-![sert-TGU](https://github.com/Evgeny-Starikov/GIT_Portfolio/blob/main/9da28084-2ded-4354-92c2-ae3f72dd2f41%20(1).jpg)
+![sert-TGU](9da28084-2ded-4354-92c2-ae3f72dd2f41%20(1).jpg)
 ___
 
-![sert-first-mod-netology](https://github.com/Evgeny-Starikov/GIT_Portfolio/blob/main/22b902fbab32e4854b4ed0c74b466c23.jpg)
+![sert-first-mod-netology](22b902fbab32e4854b4ed0c74b466c23.jpg)
 
 
 ## Мои  контакты:
