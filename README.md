@@ -21,7 +21,7 @@ ___
 ![sert-first-mod-netology](22b902fbab32e4854b4ed0c74b466c23.jpg)
 
 
-![sert-second-mod-netology](https://github.com/Evgeny-Starikov/GIT_Portfolio/blob/main/git_sert_netology.jpg)
+![sert-second-mod-netology](git_sert_netology.jpg)
 
 ## Мои  контакты:
 mailto: genestar@yandex.ru
