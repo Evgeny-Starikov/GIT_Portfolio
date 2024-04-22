@@ -1,6 +1,6 @@
 # Приветствую Вас на моей страничке!
 
-<img src="https://github.com/Evgeny-Starikov/GIT_Portfolio/blob/main/12.jpg" width=50% height=50%>
+<img src="12.jpg" width=50% height=50%>
 
 ## Меня зовут Стариков Евгений Анатольевич
 
