@@ -19,10 +19,13 @@ ___
 ![sert-TGU](9da28084-2ded-4354-92c2-ae3f72dd2f41%20(1).jpg)
 ___
 
-![sert-first-mod-netology](22b902fbab32e4854b4ed0c74b466c23.jpg)
+![sert-first-module-netology](22b902fbab32e4854b4ed0c74b466c23.jpg)
 
 
-![sert-second-mod-netology](git_sert_netology.jpg)
+![sert-second-module-netology](git_sert_netology.jpg)
+
+
+![sert-java-netology-third-module](21e7a62a6c733dca8331262a66bf2bb6.jpg)
 
 ## Мои  контакты:
 mailto: genestar@yandex.ru
